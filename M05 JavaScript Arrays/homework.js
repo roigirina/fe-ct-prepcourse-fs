@@ -95,7 +95,7 @@ function numeroMasGrande(arrayOfNums) {
          nummax = arrayOfNums[i];
       }
    }
-   return nummax
+   return nummax;
    }
 
 function multiplicarArgumentos() {
